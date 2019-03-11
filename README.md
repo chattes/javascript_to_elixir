@@ -9,4 +9,4 @@ To read more about Elixir please visit https://elixir-lang.org/docs.html
 The Contents are updated in the Wiki section https://github.com/chattes/javascript_to_elixir/wiki
 
 Updates:
-There is a TIL section. It list interesting snippets I come across, now that I am working more actively with Elixir.
+There is a [TIL](https://github.com/chattes/javascript_to_elixir/wiki/TIL) section. It list interesting snippets I come across, now that I am working more actively with Elixir.
